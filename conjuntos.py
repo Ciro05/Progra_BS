@@ -28,3 +28,4 @@ print(diferencia)
 
 #verificar si existe elemento
 print(3 in conjunto_a)
+

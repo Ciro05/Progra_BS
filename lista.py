@@ -31,4 +31,6 @@ print(nombres)
 lista_combinada = numeros + nombres
 print(lista_combinada)  
 
+largo = len(numeros)
+print(largo)
 

@@ -1,7 +1,7 @@
 tupla = (44, 57, 3, 91, 64, 34, 3)
 
 #imprimir elementos de la tupla
-print(tupla)  
+print(tupla[0])  
 
 #creando unasubtupla
 sub_tupla = tupla[1:4]
